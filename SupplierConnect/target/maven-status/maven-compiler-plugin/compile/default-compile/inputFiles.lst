@@ -1,0 +1,8 @@
+/predix/Downloads/SupplierConnect/src/main/java/com/ge/supplierconnect/entity/SupplierConnectTbl.java
+/predix/Downloads/SupplierConnect/src/main/java/com/ge/supplierconnect/service/SupplierConnectService.java
+/predix/Downloads/SupplierConnect/src/main/java/com/ge/supplierconnect/service/CorsFilter.java
+/predix/Downloads/SupplierConnect/src/main/java/com/ge/supplierconnect/repository/ISupplierSearchEntityRepository.java
+/predix/Downloads/SupplierConnect/src/main/java/com/ge/supplierconnect/dto/SupplierConnectSearchVO.java
+/predix/Downloads/SupplierConnect/src/main/java/com/ge/supplierconnect/specification/SupplierSearchSpecification.java
+/predix/Downloads/SupplierConnect/src/main/java/com/ge/supplierconnect/jpa/DatabaseConfigCloud.java
+/predix/Downloads/SupplierConnect/src/main/java/com/ge/supplierconnect/service/PredixSupplierConnectApplication.java

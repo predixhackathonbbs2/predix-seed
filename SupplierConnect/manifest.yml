@@ -1,0 +1,9 @@
+---
+applications:
+  - name: supplier-connect-service
+    buildpack: java_buildpack
+    path: target/supplierconnect-0.0.1-SNAPSHOT.jar
+    services:
+      - mypostgreservice-demo
+env:
+    db_service_name: mypostgreservice-demo
